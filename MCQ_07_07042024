@@ -3,24 +3,28 @@ a) Strings are mutable
 b) Strings are immutable 
 c) Strings can only contain letters d) Strings can have a fixed length
 Answer: b) Strings are immutable
+
 What is the correct way to initialize a string in Java?
 a) String str = "Hello"; 
 b) String str = new String("Hello"); 
 c) String str = new String[] {"Hello"}; 
 d) String str = 'Hello';
 Answer: a) String str = "Hello";
+
 Which method is used to concatenate two strings in Java? 
 a) concat() 
 b) append() 
 c) join() 
 d) merge()
 Answer: a) concat()
+
 Which method is used to compare two strings for equality in Java? 
 a) equals() 
 b) compareTo() 
 c) compare() 
 d) ==
 Answer: a) equals()
+
 Which method is used to convert a string to lowercase in Java? 
 a) toLowerCase() 
 b) toLower() 
