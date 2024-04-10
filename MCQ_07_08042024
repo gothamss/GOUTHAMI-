@@ -1,0 +1,31 @@
+1. Which of the following is a superclass of every other class in Java?A) String
+B) Object
+C) Abstract
+D) None of the above
+Answer: B) Object
+
+2. What is polymorphism in Java?
+A) A Java feature that allows the method to perform different things as per the object that is passed to it.
+B) The ability of a variable, function or object to take on multiple forms.
+C) A static method belonging to a class rather than any object of the class.
+D) None of the above.
+Answer: B) The ability of a variable, function or object to take on multiple forms.
+
+3. What is the process of wrapping data and code together into a single unit in Java?
+A) Encapsulation
+B) Abstraction
+C) Inheritance
+D) Polymorphism
+Answer: A) Encapsulation
+
+4. Which of these keywords is used to define an abstract class in Java?A) abstract
+B) Abstract
+C) abstract class
+D) AbstractClass
+Answer: A) abstract
+
+5. How does Java implement polymorphism?A) Overloading
+B) Overriding
+C) Both A and B
+D) None of the above
+Answer: C) Both A and B
